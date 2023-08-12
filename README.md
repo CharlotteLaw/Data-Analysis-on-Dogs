@@ -7,7 +7,7 @@ Utilized data science and data visualization to perform analysis on a dog datase
 * Used [Pandas](https://pandas.pydata.org/) for data processing, manipulation, and analysis
 * Used [Matplotlib](https://matplotlib.org/) for data visualization such as generating scatterplots models
 * Used [Numpy](https://numpy.org/) for computational applications such as quadratic and linear regression
-* Programmed and implemented various data processing functions using Python
+* Programmed and implemented various data processing functions to clean up dataset
 
 
   
