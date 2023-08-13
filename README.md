@@ -1,4 +1,4 @@
-# Data-Analysis-on-Dogs
+# Data Analysis on Dogs
 Utilized data science and data visualization to perform analysis on a dog dataset sourced from the AKC (American Kennel Club).
  
 
