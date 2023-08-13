@@ -20,5 +20,5 @@ Utilized data science and data visualization to perform analysis on a dog datase
 3. Run the google colab/jupyter notebook
 
 
-Data Visualization with Matplotlib and Pandas Preview  
+## Data Visualization with Matplotlib and Pandas Preview  
 ![image](https://github.com/CharlotteLaw/Data-Science-on-Dogs/assets/69742430/6ad7697a-8401-4447-bc9e-e03dee3f4ded)
